@@ -171,6 +171,4 @@ public class AsynTaskService {
 		this.retryBatchSize = retryBatchSize;
 	}
 	
-	
-	
 }
